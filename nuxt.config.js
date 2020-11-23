@@ -1,5 +1,5 @@
 export default {
-  dev: process.env.NODE_ENV !== 'production',
+  target: 'server',
   css: [],
   plugins: [],
   components: true,
